@@ -104,7 +104,7 @@ function Main() {
                         fontSize="xl"
                         fontFamily="Fredoka"
                         color="white"
-                        opacity="0.6"
+                        opacity="0.7"
                     >
                         Reclaim your github trackrecord, while still being pseudonaonymous on Lens
                     </Text>
